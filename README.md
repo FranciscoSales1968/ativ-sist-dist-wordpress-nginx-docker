@@ -1,3 +1,8 @@
+# Projeto adaptado ṕara uso como exercício da disciplina Sistemas Distribuídos.
+# Professor Nabor
+# Aluno Sampaio
+# Curso - Especializacao em Engenharia de Software com Devops
+# Data: 01/02/2024
 # WordPress (FPM Edition) - Docker
 
 Notes on deploying a single site [WordPress FPM Edition](https://hub.docker.com/_/wordpress/) instance as a docker deployment orchestrated by Docker Compose.
