@@ -1,7 +1,7 @@
 # Projeto adaptado ṕara uso como exercício da disciplina Sistemas Distribuídos.
 # Professor Nabor
 # Aluno Sampaio
-# Curso - Especializacao em Engenharia de Software com Devops
+# UECE - Curso - Especializacao em Engenharia de Software com Devops / Sistemas Distribuídos 
 # Data: 01/02/2024
 # WordPress (FPM Edition) - Docker
 
